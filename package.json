@@ -1,0 +1,9 @@
+{
+  "name": "vuepress-tut",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
